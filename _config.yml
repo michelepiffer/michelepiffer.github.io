@@ -1,0 +1,18 @@
+theme: minima
+
+title: "My GitHub Page"
+description: "A showcase of my projects and work"
+theme: minima
+
+# Add navigation links here
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "News"
+    url: "/news/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
