@@ -1,7 +1,32 @@
 Brignone-Piffer, Structural Forecast Analysis
 https://michelepiffer.github.io/pdf_research/BrignonePiffer_StucturalForecastAnalysis.pdf
 
+
 Mumtaz-Piffer, Bart Local Projections
 https://michelepiffer.github.io/pdf_research/MumtazPiffer_BartLP_paper.pdf
 https://michelepiffer.github.io/pdf_research/MumtazPiffer_BartLP_onlineappendix.pdf
+
+
+Bruns-Piffer, STVAR
+
+
+Bruns-Piffer, Linear BVAR
+https://michelepiffer.github.io/pdf_research/BrunsPiffer_LinearBVAR_paper.pdf
+https://michelepiffer.github.io/pdf_research/BrunsPiffer_LinearBVAR_onlineappendix.pdf
+
+
+Hachula-Piffer-Rieth, Monetary policy in the EA
+https://michelepiffer.github.io/pdf_research/HachulaPifferRieth_UMPolicy_paper.pdf
+https://michelepiffer.github.io/pdf_research/HachulaPifferRieth_UMPolicy_onlineappendix.pdf
+
+
+Piffer, MP and defaults
+https://michelepiffer.github.io/pdf_research/Piffer_MPdefaults_onlineappendix.pdf
+
+
+Piffer-Podstawski, Gold
+https://michelepiffer.github.io/pdf_research/Piffer_MPdefaults_onlineappendix.pdf
+https://michelepiffer.github.io/pdf_research/Piffer_MPdefaults_onlineappendix.pdf
+
+
 
