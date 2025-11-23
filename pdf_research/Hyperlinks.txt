@@ -1,2 +1,7 @@
 Brignone-Piffer, Structural Forecast Analysis
 https://michelepiffer.github.io/pdf_research/BrignonePiffer_StucturalForecastAnalysis.pdf
+
+Mumtaz-Piffer, Bart Local Projections
+https://michelepiffer.github.io/pdf_research/MumtazPiffer_BartLP_paper.pdf
+https://michelepiffer.github.io/pdf_research/MumtazPiffer_BartLP_onlineappendix.pdf
+
