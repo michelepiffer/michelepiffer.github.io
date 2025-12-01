@@ -1,6 +1,22 @@
+------------ WORKING PAPERS ------------
+
+
+Kociecki-Matthes-Piffer,t-SVAR
+https://michelepiffer.github.io/pdf_research/KocieckiMatthesPiffer_tSVAR_paper.pdf
+https://michelepiffer.github.io/pdf_research/KocieckiMatthesPiffer_tSVAR_onlineappendix.pdf
+
+
 Brignone-Piffer, Structural Forecast Analysis
 https://michelepiffer.github.io/pdf_research/BrignonePiffer_StucturalForecastAnalysis.pdf
 
+
+Canova-Kociecki-Piffer, Priors on IRFs
+https://michelepiffer.github.io/pdf_research/CanovaKocieckiPiffer_PriorsIRFs_paper.pdf
+https://michelepiffer.github.io/pdf_research/CanovaKocieckiPiffer_PriorsIRFs_onlineappendix.pdf
+
+
+
+------------ PUBLICATIONS ------------
 
 Mumtaz-Piffer, Bart Local Projections
 https://michelepiffer.github.io/pdf_research/MumtazPiffer_BartLP_paper.pdf
@@ -8,6 +24,10 @@ https://michelepiffer.github.io/pdf_research/MumtazPiffer_BartLP_onlineappendix.
 
 
 Bruns-Piffer, STVAR
+https://michelepiffer.github.io/pdf_research/BrunsPiffer_SmoothTransitionVAR_paper.pdf
+https://michelepiffer.github.io/pdf_research/BrunsPiffer_SmoothTransitionVAR_onlineappendix.pdf
+https://michelepiffer.github.io/pdf_research/BrunsPiffer_SmoothTransitionVAR_somederivations.pdf
+
 
 
 Bruns-Piffer, Linear BVAR
@@ -25,8 +45,8 @@ https://michelepiffer.github.io/pdf_research/Piffer_MPdefaults_onlineappendix.pd
 
 
 Piffer-Podstawski, Gold
-https://michelepiffer.github.io/pdf_research/Piffer_MPdefaults_onlineappendix.pdf
-https://michelepiffer.github.io/pdf_research/Piffer_MPdefaults_onlineappendix.pdf
+https://michelepiffer.github.io/pdf_research/PifferPodstawski_UncertaintyGold_paper.pdf
+https://michelepiffer.github.io/pdf_research/PifferPodstawski_UncertaintyGold_onlineappendix.pdf
 
 
 
