@@ -2,4 +2,4 @@
 
 
 DSMH sampler
-https://michelepiffer.github.io/pdf_research/DSMH_sampler.zip
+https://michelepiffer.github.io/replication_codes/DSMH_sampler.zip
